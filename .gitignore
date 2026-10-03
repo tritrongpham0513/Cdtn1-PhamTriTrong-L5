@@ -1,0 +1,27 @@
+# Build & Dependency
+target/
+build/
+*.jar
+*.war
+node_modules/
+
+# Environment & Secret
+.env
+.env.local
+
+# IDE & Editor
+.idea/
+.vscode/
+*.iml
+*.class
+.project
+.settings/
+
+# Logs
+*.log
+logs/
+
+# He dieu hanh & File tam
+.DS_Store
+Thumbs.db
+*.docx.txt
